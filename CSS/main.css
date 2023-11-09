@@ -1,0 +1,11 @@
+.item {
+	width: 1920px;
+	height: 1080px;
+	background: url(../img/img_1.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.item-show {
+	background: url(../img/img_2.jpg);
+}
